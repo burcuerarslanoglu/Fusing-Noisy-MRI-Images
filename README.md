@@ -1,6 +1,5 @@
 # Fusing-Noisy-MRI-Images
-Statistical Digital Signal Processing, TU Delft, Q1
-Group Project
+Statistical Digital Signal Processing, TU Delft, Q1, Group Project
 
 # Repository Contents
 
